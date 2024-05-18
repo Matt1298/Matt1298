@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Sou um estudante de Web Back End.<br>Estou a procura de uma oportunidade de trabalho para colocar meu<br>conhecimento em prática.<br>
+Olá! Sou um estudante de Web Back-End.<br>Estou a procura de uma oportunidade de trabalho para colocar meu<br>conhecimento em prática.<br>
 
 
 # 💻 Tech Stack:
